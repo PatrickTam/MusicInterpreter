@@ -14,7 +14,6 @@ import detect_peaks
 from scipy import fft, arange, ifft
 import note
 import MusicNotes
-import savitzky_golay
 import record
 import gui2
 

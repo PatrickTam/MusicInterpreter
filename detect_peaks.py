@@ -1,5 +1,5 @@
 """Detect peaks in data based on their amplitude and other features."""
-
+#from https://github.com/demotu/BMC/blob/master/functions/detect_peaks.py
 from __future__ import division, print_function
 import numpy as np
 
